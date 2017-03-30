@@ -1,0 +1,14 @@
+h1 {
+    background-color: dodgerblue;
+    color: black;
+    font-family: Georgia, serif;
+    line-height: normal;
+}
+body {
+    font-family: Georgia, serif;
+    background-color: deepskyblue;
+}
+p {
+    font-family: Georgia, serif;
+    line-height: normal;
+}
